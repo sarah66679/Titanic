@@ -31,7 +31,7 @@
 # Kaggle :
 <p>We provide 7 kind of modeling in order to reach to best predections.</p>
 <p>Boosting Classifier performs best with a cross validation score of 0.789.</p> 
-<img src="image.PNG" alt="rig result" width="500" height="600">
+<img src="image.png" alt="rig result" width="500" height="600">
 
 
 # Conclusion :
